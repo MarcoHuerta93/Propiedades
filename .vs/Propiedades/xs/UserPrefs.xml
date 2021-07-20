@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{7120EF7E-1001-418E-8E52-A089A8F71C01}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Propiedades/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Propiedades/Caja.cs">
     <Files>
       <File FileName="Propiedades/Program.cs" Line="9" Column="13" />
+      <File FileName="Propiedades/Caja.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Propiedades" expanded="True">
             <Node name="Propiedades" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Caja.cs" selected="True" />
             </Node>
           </Node>
         </State>
